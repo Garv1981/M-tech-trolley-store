@@ -1,0 +1,82 @@
+[
+  {
+      "id": 1,
+      "name": "Double Wheel Premium",
+      "category": "House Aroma",
+      "title": "Quality Product",
+      "price": 599.99,
+      "rating": { "rate": 4.5, "count": 20 },
+      "image": "https://m.media-amazon.com/images/I/31qUfQ0UZ0L._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "A stylish and durable trolley with double wheels for smooth mobility, perfect for modern households and travel needs."
+  },
+  {
+      "id": 2,
+      "name": "Grey Luminous Look",
+      "category": "House Aroma",
+      "title": "Captures the attention",
+      "price": 799.99,
+      "rating": { "rate": 4.7, "count": 50 },
+      "image": "https://m.media-amazon.com/images/I/41OWouPEn0L._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "An elegant trolley in a luminous grey finish, featuring premium construction and ample storage space for all your essentials."
+  },
+  {
+      "id": 3,
+      "name": "Deluxe White Range",
+      "category": "House Aroma",
+      "title": "Design with Prestige",
+      "price": 999.99,
+      "rating": { "rate": 4.9, "count": 30 },
+      "image": "https://m.media-amazon.com/images/I/31W2ZcyDbyL.jpg",
+      "description": "A deluxe white trolley with a sleek design, combining functionality and luxury for your home or office use."
+  },
+  {
+      "id": 11,
+      "name": "Double Wheel Premium",
+      "category": "House Aroma",
+      "title": "Captures the attention",
+      "price": 899.99,
+      "rating": { "rate": 4.0, "count": 45 },
+      "image": "https://m.media-amazon.com/images/I/51Bv+RZyodL._AC_UF480,480_SR480,480_.jpg",
+      "description": "A premium double-wheel trolley designed for heavy-duty use, offering reliability and style in one package."
+  },
+  {
+      "id": 1,
+      "name": "Double Wheel Premium",
+      "category": "House Aroma",
+      "title": "Quality Product",
+      "price": 599.99,
+      "rating": { "rate": 4.5, "count": 20 },
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSkSvh5Oe5LQFKHbiyX7NYTEZUowKUof-B8JwAaj9ETD8jxvNmQl1djIejBYF5O_T_H2Ajb4Ug1shG4sv56sTsulHSGROrqGFAe7wgsfKNorUtimEu3v0mW&usqp=CAE",
+      "description": "A compact and portable trolley with smooth wheels, ideal for everyday use and easy to store when not in use."
+  },
+  {
+      "id": 2,
+      "name": "Grey Luminous Look",
+      "category": "House Aroma",
+      "title": "Captures the attention",
+      "price": 799.99,
+      "rating": { "rate": 4.7, "count": 50 },
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQU9do-LOtbqwaBo_pz43FF9Y3Q-zVsmeQc3-eXrKqPRMrLVi_vEfQjKOIUcpB9vjPFhJTQOz8PhmVDfKVRccNUEosr-xNaZLSbcV2LtjKG7KxZRVERsNM8&usqp=CAE",
+      "description": "A modern trolley with a luminous grey design, perfect for those who want style and efficiency in their storage solutions."
+  },
+  {
+      "id": 3,
+      "name": "Deluxe White Range",
+      "category": "House Aroma",
+      "title": "Design with Prestige",
+      "price": 999.99,
+      "rating": { "rate": 4.9, "count": 30 },
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQmSPXVWMtWnjYxRSQEUuPNUkrXa3JNfNgLbnZkbL9B6hy1pw3r86rGU2JsdUmcZJp2LIm1VGXH9YWwVo6jxyLp7QNtaaSyiYYDTqe9P-z69q3D8eaDkswwzgE&usqp=CAE",
+      "description": "A high-end white trolley that merges functionality with a minimalist aesthetic, suitable for homes or professional use."
+  },
+  {
+      "id": 11,
+      "name": "Double Wheel Premium",
+      "category": "House Aroma",
+      "title": "Captures the attention",
+      "price": 899.99,
+      "rating": { "rate": 4.0, "count": 45 },
+      "image": "https://m.media-amazon.com/images/I/614cd3QaUrL.jpg",
+      "description": "A robust double-wheel trolley, perfect for carrying heavy loads while maintaining a sleek and stylish look."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Double Wheel Premium",
+    "category": "House Aroma",
+    "title": "Quality Product",
+    "price": 599.99,
+    "rating": { "rate": 4.5, "count": 20 },
+    "image": "https://m.media-amazon.com/images/I/31qUfQ0UZ0L._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Premium double-wheel trolley, designed for smooth mobility and durability, perfect for organizing and transporting items efficiently."
+  },
+  {
+    "id": 2,
+    "name": "Grey Luminious Look",
+    "category": "House Aroma",
+    "title": "Captures the attention",
+    "price": 799.99,
+    "rating": { "rate": 4.7, "count": 50 },
+    "image": "https://m.media-amazon.com/images/I/41OWouPEn0L._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Elegant and modern trolley with a luminous grey finish, offering both aesthetic appeal and practical functionality for any space."
+  },
+  {
+    "id": 3,
+    "name": "Deluxe White Range",
+    "category": "House Aroma",
+    "title": "Design with Prestige",
+    "price": 999.99,
+    "rating": { "rate": 4.9, "count": 30 },
+    "image": "https://m.media-amazon.com/images/I/31W2ZcyDbyL.jpg",
+    "description": "Luxurious white trolley with a deluxe finish, designed to add a touch of sophistication while meeting all your storage needs."
+  },
+  {
+    "id": 4,
+    "name": "Wood Furnished Premium",
+    "category": "Antic Wooden",
+    "title": "Warm and cozy woodie",
+    "price": 1299.99,
+    "rating": { "rate": 4.9, "count": 40 },
+    "image": "https://m.media-amazon.com/images/I/81u9T8V49iL._SX679_.jpg",
+    "description": "High-quality wooden trolley with a smooth finish, ideal for enhancing your interiors while offering ample storage and portability."
+  },
+  {
+    "id": 5,
+    "name": "Steel Finishing Double Stand",
+    "category": "Basics",
+    "title": "Life Time Running",
+    "price": 1199.99,
+    "rating": { "rate": 4.7, "count": 25 },
+    "image": "https://m.media-amazon.com/images/I/61gnlmJ7gwL._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "Durable double-stand steel trolley with a modern finish, built for long-term use and designed to handle heavy loads with ease."
+  },
+  {
+    "id": 6,
+    "name": "Wooden Premium Range",
+    "category": "Antic Wooden",
+    "title": "Trendy Look to house",
+    "price": 2499.99,
+    "rating": { "rate": 4.5, "count": 70 },
+    "image": "https://m.media-amazon.com/images/I/71u33XQ8MTL._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "Premium wooden trolley featuring a trendy design, ideal for modern interiors and versatile storage solutions."
+  },
+  {
+    "id": 7,
+    "name": "Square Design Structure",
+    "category": "Basics",
+    "title": "Quality with affordability",
+    "price": 499.99,
+    "rating": { "rate": 4.6, "count": 60 },
+    "image": "https://m.media-amazon.com/images/I/61UIKqUSTPL._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "Compact trolley with a square design structure, offering practicality and affordability without compromising on quality."
+  },
+  {
+    "id": 8,
+    "name": "Wooden Easy Four Wheel",
+    "category": "Antic Wooden",
+    "title": "Wooden Panel Stand",
+    "price": 1599.99,
+    "rating": { "rate": 4.7, "count": 15 },
+    "image": "https://m.media-amazon.com/images/I/411OSVQ526L._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Stylish and easy-to-move wooden trolley with four wheels, perfect for seamless transportation of your essentials."
+  },
+  {
+    "id": 9,
+    "name": "Wood Furnished Premium",
+    "category": "Antic Wooden",
+    "title": "Warm and cozy woodie",
+    "price": 1199.99,
+    "rating": { "rate": 4.3, "count": 50 },
+    "image": "https://images-eu.ssl-images-amazon.com/images/I/51KTkR4tbmL._AC_UL165_SR165,165_.jpg",
+    "description": "Beautifully crafted wooden trolley, combining functionality with a rustic charm to complement your home decor."
+  },
+  {
+    "id": 10,
+    "name": "Steel Work Four Wheel",
+    "category": "Basics",
+    "title": "Easy to Move with Less Space",
+    "price": 799.99,
+    "rating": { "rate": 4.4, "count": 35 },
+    "image": "https://m.media-amazon.com/images/I/41gEVwqDKxL._AC_UF480,480_SR480,480_.jpg",
+    "description": "Sleek and durable steel trolley with four wheels, designed to maximize mobility while saving space."
+  },
+  {
+    "id": 11,
+    "name": "Double Wheel Premium",
+    "category": "House Aroma",
+    "title": "Captures the attention",
+    "price": 899.99,
+    "rating": { "rate": 4.0, "count": 45 },
+    "image": "https://m.media-amazon.com/images/I/51Bv+RZyodL._AC_UF480,480_SR480,480_.jpg",
+    "description": "Double-wheel trolley with an eye-catching design, ideal for adding both practicality and style to your space."
+  },
+  {
+    "id": 12,
+    "name": "Less Space More Power",
+    "category": "Basics",
+    "title": "Metallic Premium",
+    "price": 599.99,
+    "rating": { "rate": 4.4, "count": 60 },
+    "image": "https://m.media-amazon.com/images/I/31nCj8peCxL._SX300_SY300_QL70_FMwebp_.jpg",
+    "description": "Compact metallic trolley that optimizes space and offers powerful utility for everyday storage and transport."
+  }
+]
